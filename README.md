@@ -1,1 +1,1 @@
-# GEO_spatial
+# GEOspatial
